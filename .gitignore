@@ -1,5 +1,8 @@
 __pycache__/
-data/__pycache__/
-utils/__pycache__/
+/allgo/__pycache__
+/allgo/data/__pycache__
+/allgo/utils/__pycache__
+build/
+dist/
 backup/
 tester.ipynb
