@@ -4,5 +4,6 @@ __pycache__/
 /allgo/utils/__pycache__
 build/
 dist/
+AllGoGet.egg-info/
 backup/
 tester.ipynb
